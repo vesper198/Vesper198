@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vesper
 
-### 🔐 Cybersecurity Student • 💻 Developer
+###  Cybersecurity Student • 💻 Developer
 
 I'm a cybersecurity student passionate about software development, cybersecurity, and building useful digital solutions.
 
@@ -8,17 +8,17 @@ Currently learning, building projects, and improving my skills one step at a tim
 
 ---
 
-## 🧠 What I'm Learning
+##  What I'm Learning
 
-- 🔐 Cybersecurity & Web Security
-- 💻 JavaScript & TypeScript
-- 🐍 Python
-- 🌐 HTML & CSS
-- 🐧 Linux
-- 🌐 Networking
-- 🔧 Git & GitHub
+-  Cybersecurity & Web Security
+-  JavaScript & TypeScript
+-  Python
+-  HTML & CSS
+-  Linux
+-  Networking
+-  Git & GitHub
 
-## 🛠️ Technologies
+##  Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -30,17 +30,17 @@ Currently learning, building projects, and improving my skills one step at a tim
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏫 Venite University Landing Page
+###  Venite University Landing Page
 A university landing page built while practicing modern web development.
 
-### 🔐 Cybersecurity Projects
+###  Cybersecurity Projects
 Currently building projects to develop practical cybersecurity and programming skills.
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build real-world software
 - Develop strong cybersecurity skills
@@ -50,13 +50,13 @@ Currently building projects to develop practical cybersecurity and programming s
 
 ---
 
-## 📈 My Philosophy
+##  My Philosophy
 
-> **Learn → Build → Break → Fix → Secure → Repeat. 🔐**
+> **Learn → Build → Break → Fix → Secure → Repeat. **
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 Thanks for visiting my profile.  
 I'm always learning, building, and growing.
